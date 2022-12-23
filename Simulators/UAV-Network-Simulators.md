@@ -25,7 +25,6 @@
 * Yoon S, Shin D, Choi Y, et al. <b>Development of a flexible and expandable UTM simulator based on open sources and platforms[J]</b>. Aerospace, 2021, 8(5): 133. [Paper](https://www.mdpi.com/2226-4310/8/5/133)
 
 # 2020
-* Grekhov A, Vyshnyakova Y, Ilnytska S, et al. <b>Simulation of Navigation and Flight Control Systems Traffic for UAS/RPAS[C]</b>//2020 IEEE 6th International Conference on Methods and Systems of Navigation and Motion Control (MSNMC). IEEE, 2020: 43-46. [Paper](https://ieeexplore.ieee.org/abstract/document/9255604/)
 * Grekhov A, Vyshnyakova Y, Ilnytska S, et al. <b>Simulation of Navigation and Flight Control Systems Traffic for UAS/RPAS[C]</b>//2020 IEEE 6th International Conference on Methods and Systems of Navigation and Motion Control (MSNMC). IEEE, 2020: 43-46. [Paper](https://ieeexplore.ieee.org/abstract/document/9255604/) [CloudRT](http://raytracer.cloud/)
 * Acharya S, Bharadwaj A, Simmhan Y, et al. <b>Cornet: A co-simulation middleware for robot networks[C]</b>//2020 International Conference on COMmunication Systems & NETworkS (COMSNETS). IEEE, 2020: 245-251. [Paper](https://ieeexplore.ieee.org/abstract/document/9027459/) [Code](https://github.com/srikrishna3118/CORNET)
 * Vidal I, Nogales B, Valera F, et al. <b>A multi-site NFV testbed for experimentation with SUAV-based 5G vertical services[J]</b>. IEEE access, 2020, 8: 111522-111535. [Paper](https://ieeexplore.ieee.org/abstract/document/9115615/)
