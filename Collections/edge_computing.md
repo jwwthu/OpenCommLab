@@ -40,8 +40,7 @@ This is the collection of open-source papers on the topic of edge computing.
 
 * Vera-Rivera A, Hossain E, Hussein A R. Exploring the Intersection of Consortium Blockchain Technologies and Multi-Access Edge Computing: Chronicles of a Proof of Concept Demo[J]. IEEE Open Journal of the Communications Society, 2022, 3: 2203-2236. [Link](https://ieeexplore.ieee.org/abstract/document/9946395/) [Code](https://github.com/angelovera/TaskSharingServiceDemo)
 
-* Tuli S, Casale G, Jennings N R. SimTune: bridging the simulator reality gap for resource management in edge-cloud computing[J]. Scientific Reports, 2022, 12(1): 19158. [Link](https://www.nature.com/articles/s41598-022-23924-0) [Code](https://github.com/imperial-qore/SimTune)
-[Code1]https://zenodo.org/record/7273916)
+* Tuli S, Casale G, Jennings N R. SimTune: bridging the simulator reality gap for resource management in edge-cloud computing[J]. Scientific Reports, 2022, 12(1): 19158. [Link](https://www.nature.com/articles/s41598-022-23924-0) [Code](https://github.com/imperial-qore/SimTune) [Code1](https://zenodo.org/record/7273916)
 
 * Ovatman T, Kurt G K, Yanikomeroglu H. An Accurate Model for Computation Offloading in 6G Networks and a HAPS-Based Case Study[J]. IEEE Open Journal of the Communications Society, 2022, 3: 1963-1977. [Link](https://ieeexplore.ieee.org/abstract/document/9931920/) [Code](https://github.com/ovatman/ComputationOffloadingSimulation)
 
