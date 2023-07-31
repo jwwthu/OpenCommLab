@@ -1,5 +1,8 @@
 This is the collection of open-source papers on the topic of edge computing.
 
+# Other Collections
+[https://github.com/qijianpeng/awesome-edge-computing](https://github.com/qijianpeng/awesome-edge-computing)
+
 # 2023
 ## Journal
 * Li J, Guo D, Xie J, et al. Availability-aware Provision of Service Function Chains in Mobile Edge Computing[J]. ACM Transactions on Sensor Networks, 2023, 19(3): 1-28. [Link](https://dl.acm.org/doi/abs/10.1145/3565483) [Code](https://gitee.com/yfljx/apos)
