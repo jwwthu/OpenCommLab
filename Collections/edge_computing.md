@@ -108,3 +108,7 @@ This is the collection of open-source papers on the topic of edge computing.
 * Mostafavi S S, Moothedath V N, Gross J. Ainur: A Framework for Repeatable End-to-End Wireless Edge Computing Testbed Research[J]. arXiv preprint arXiv:2205.14247, 2022. [Link](https://arxiv.org/abs/2205.14247) [Code](https://github.com/KTH-EXPECA/Ainur)
 
 * Tuli S, Casale G, Cherkasova L, et al. DeepFT: Fault-Tolerant Edge Computing using a Self-Supervised Deep Surrogate Model[J]. arXiv preprint arXiv:2212.01302, 2022. [Link](https://arxiv.org/abs/2212.01302) [Code](https://github.com/imperial-qore/DeepFT)
+
+# 2021
+## Journal
+* Yang B, Cao X, Bassey J, et al. Computation offloading in multi-access edge computing: A multi-task learning approach[J]. IEEE transactions on mobile computing, 2021, 20(9): 2745-2762. [Link](https://ieeexplore.ieee.org/document/9079564) [Code](https://github.com/qiyu3816/MTFNN-CO)
