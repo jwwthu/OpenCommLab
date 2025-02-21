@@ -41,6 +41,7 @@
 * Liu F, Masouros C, Li A, et al. MU-MIMO communications with MIMO radar: From co-existence to joint transmission[J]. IEEE Transactions on Wireless Communications, 2018, 17(4): 2755-2770. [Link](https://ieeexplore.ieee.org/abstract/document/8288677/) [Code](https://github.com/yuanhao-cui/Must-Reading-on-ISAC/tree/main/Codes/Fan2018TWC%20by%20Nate%20Raymondi)
 
 # Other resources without publication
+* [TeraISAC v1.0 A Physical-Layer Simulator for Terahertz Integrated Sensing and Communication](https://github.com/TWCLabSJTU/TeraISAC)
 * [Sensiverse: A dataset for ISAC study by Huawei](https://sensiverse.github.io/)
 * [Deepverse 6G: A framework for synthetic multi-modal sensing and communication datasets (empty until 2023/8/23)](https://deepverse6g.net/
 )
