@@ -9,3 +9,6 @@ This is the repository for collecting and summarizing open-source datasets and t
 * [Wireless Networking Group (WiNG) at UCLA Computer Science Department](http://metro.cs.ucla.edu/index.html)
 * [Zhouyou Gu - SUTD](https://github.com/zhouyou-gu)
 * [NetworkCommunication](https://github.com/NetworkCommunication)
+* [LiZhuoRan0](https://github.com/LiZhuoRan0)
+* [Xuezheng@gdut](https://github.com/Xuezhenggdut)
+* [Riccardo Fedrizzi](https://github.com/RiccardoFedrizzi)
