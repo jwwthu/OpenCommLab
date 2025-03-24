@@ -22,3 +22,4 @@ This is the repository for collecting and summarizing open-source datasets and t
 * [OFDM_DNN_Pytorch](https://github.com/lchhai/OFDM_DNN_Pytorch)
 * [Henry Wen](https://github.com/wenh81)
 * [Zipeng Dai](https://github.com/superboySB)
+* [Networked Intelligence for sCience Exploration (NICE)](https://github.com/zjunice)
