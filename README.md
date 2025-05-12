@@ -23,3 +23,4 @@ This is the repository for collecting and summarizing open-source datasets and t
 * [Henry Wen](https://github.com/wenh81)
 * [Zipeng Dai](https://github.com/superboySB)
 * [Networked Intelligence for sCience Exploration (NICE)](https://github.com/zjunice)
+* [MACC Lab at Stevens Institute of Technology](https://github.com/macclab-stevens)
